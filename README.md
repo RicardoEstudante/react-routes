@@ -19,9 +19,16 @@
 <p align="center">        
     <img src="./img/app.png">
 </p>
+
+---
+
 <p align="center">        
     <img src="./img/front.png">
 </p>
+
+---
+
+
 </p>
 <p align="center">        
     <img src="./img/back.png">
