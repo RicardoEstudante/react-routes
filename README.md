@@ -19,9 +19,16 @@
 <p align="center">        
     <img src="./img/app.png">
 </p>
+<p align="center">        
+    <img src="./img/front.png">
+</p>
+</p>
+<p align="center">        
+    <img src="./img/back.png">
+</p>
 
 ## Certificado
 
 <p>
-    Certificado de conclusão do curso<a href="./img/certificado.pdf"> Clique Aqui<a/>
+    Certificado de conclusão do curso<a href="./img/certificado.pdf"> Clique Aqui</a>
 </p>
